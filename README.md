@@ -1,5 +1,4 @@
 # manchkin-for-pc
-manchkin-for-pc
-+
-+Kocharizhkin edition
+
+Kocharizhkin edition
 / No new line at end of file
