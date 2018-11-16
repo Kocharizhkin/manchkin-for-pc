@@ -5,7 +5,7 @@ def run_game():
     pygame.init()
     screen=pygame.display.set_mode((900,700))
     card=Card(screen)
-    bg_color=(120,120,90)
+    bg_color=(222, 184, 135)
     pygame.display.set_caption("Munchkin")
     while True:
         for event in pygame.event.get():
