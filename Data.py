@@ -1,7 +1,7 @@
 import pyodbc
 conn_str = (
     r'DRIVER={Microsoft Access Driver (*.mdb, *.accdb)};'
-    r'DBQ=C:\Users\Student\Documents\GitHub\manchkin-for-pc\cards\DataBase.accdb;'
+    r'DBQ=C:\Users\Егор\Documents\GitHub\manchkin-for-pc\cards\DataBase.accdb;'
     )
 cnxn = pyodbc.connect(conn_str)
 crsr = cnxn.cursor()
